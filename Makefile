@@ -17,7 +17,7 @@ build:
 ## clean: Clean up celestia-node binary.
 clean:
 	@echo "--> Cleaning up ./build"
-	@rm -rf build/*
+	@rm -rf build/*ы
 
 ## install: Build and install the celestia-node binary into the GOBIN directory.
 install:
