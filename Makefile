@@ -13,7 +13,7 @@ build:
 	@echo "--> Building Celestia"
 	@go build -o build/ -ldflags ${LDFLAGS} ./cmd/celestia
 .PHONY: build
-
+ы
 ## clean: Clean up celestia-node binary.
 clean:
 	@echo "--> Cleaning up ./build"
