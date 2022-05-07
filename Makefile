@@ -30,7 +30,7 @@ cel-shed:
 	@echo "--> Building cel-shed"
 	@go build ./cmd/cel-shed
 .PHONY: cel-shed
-
+s
 ## install-shed: Build and install the cel-shed binary into the GOBIN directory.
 install-shed:
 	@echo "--> Installing cel-shed"
