@@ -7,7 +7,7 @@ help: Makefile
 	@echo " Choose a command run in "$(PROJECTNAME)":"
 	@sed -n 's/^##//p' $< | column -t -s ':' |  sed -e 's/^/ /'
 .PHONY: help
-
+xbt
 ## build: Build celestia-node binary.
 build:
 	@echo "--> Building Celestia"
