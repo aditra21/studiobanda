@@ -11,6 +11,7 @@ require (
 	github.com/celestiaorg/nmt v0.8.0
 	github.com/celestiaorg/rsmt2d v0.4.0
 	github.com/cosmos/cosmos-sdk v0.44.3
+	hyi
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/gogo/protobuf v1.3.3
 	github.com/gorilla/mux v1.8.0
